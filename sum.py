@@ -1,7 +1,7 @@
 # This program adds two numbers
 
-a = 7
-b = 2
+a = input()
+b = input()
 
 # Add two numbers
 sum = float(a) + float(b)
