@@ -7,4 +7,4 @@ b = input()
 sum = float(a) + float(b)
 
 # Display the sum
-print('The sum of ',a,'and ',b,'is ',sum)
+print('The sum of ', a, 'and ', b, 'is ', sum)
